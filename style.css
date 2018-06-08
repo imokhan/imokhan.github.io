@@ -39,8 +39,8 @@ nav a:hover{
 	align-items: center;no
 	width: 100%;
 	height: 550px;
-	background: grey url("bg.jpg") center center cover no-repeat fixed;
-	background-size: cover;
+	background: grey url("bg.jpg") center  no-repeat fixed;
+	
 	background-blend-mode: color-burn;
 	color: white;
 	text-transform: uppercase;
