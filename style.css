@@ -40,7 +40,6 @@ nav a:hover{
 	width: 100%;
 	height: 550px;
 	background: grey url("bg.jpg") center  no-repeat fixed;
-	background-attachment: fixed;
 	background-blend-mode: color-burn;
 	color: white;
 	text-transform: uppercase;
